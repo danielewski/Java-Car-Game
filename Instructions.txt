@@ -1,0 +1,11 @@
+To play the game:
+1) Click "Play"
+2) Select a vehicle class
+3) Select your car or motorcycle
+4) Moving your mouse left and right, try to dodge the
+objects that are coming towards your vehicle! For every object you dodge, you are awarded 1 point! Points are displayed in the top left of the screen under your vehicle name
+
+To watch the computer play:
+1) Click "Play"
+2) Select the "Car" option
+3) Select the "Watch AI" button
